@@ -13,8 +13,6 @@ public class PagerAdapter extends FragmentStatePagerAdapter {
     public String[] mStrings;
     //This is a new change
 
-    //This is another change
-
     public PagerAdapter(FragmentManager fm) {
         super(fm);
     }
