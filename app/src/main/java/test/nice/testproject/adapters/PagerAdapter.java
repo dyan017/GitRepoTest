@@ -11,7 +11,7 @@ import test.nice.testproject.fragments.PagerFragment;
  */
 public class PagerAdapter extends FragmentStatePagerAdapter {
     public String[] mStrings;
-
+    //This is a new change
 
     public PagerAdapter(FragmentManager fm) {
         super(fm);
